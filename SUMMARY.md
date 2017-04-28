@@ -13,8 +13,28 @@
 * [Game Loop](flow-of-control/game-loop.md)
 * [Tick Updates](flow-of-control/tick-updates.md)
 * [Render](flow-of-control/render.md)
+* [The Current Level](flow-of-control/the-current-level.md)
+* [Event Updates](flow-of-control/event-updates.md)
+* [Shutting Down](flow-of-control/shutting-down.md)
 
-## Rendering Framework
+## GUI Framework
+
+* [Basics](gui-framework/basics.md)
+* [Text](gui-framework/text.md)
+* Tooltips
+* EditBox
+* Buttons
+* SpinButton
+* Checkbox / Radio Button
+* Lists
+* MessageBox
+* ChatBox
+* Panel
+* Tabs
+* ChildWindow
+* Styling the GUI
+
+## Classes
 
 * [Basics](frameworks.md)
 
