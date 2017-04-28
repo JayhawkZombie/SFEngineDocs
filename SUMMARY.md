@@ -37,9 +37,10 @@
 * [ChildWindow](gui-framework/childwindow.md)
 * Examples
 
-## Classes
+## Engine Classes
 
-* [Basics](frameworks.md)
+* [BaseEngineInterface](engine-classes/baseengineinterface.md)
+* [BasicLevel](engine-classes/basiclevel.md)
 
 ## Timing
 
