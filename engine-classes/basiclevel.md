@@ -21,3 +21,8 @@ It, of course, overrides everything it is supposed to, and adds some additional 
     virtual void SpawnObject(std::shared_ptr<LevelObject> Object, const sf::Vector2f &Position);
     virtual void RenderOnTexture(SharedRTexture Texture) = 0;
 ```
+
+
+
+
+
