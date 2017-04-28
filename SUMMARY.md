@@ -4,6 +4,7 @@
 
 * [SFEngine](README.md)
 * [Libraries Used](libraries-used.md)
+* [Engine Types](engine-types.md)
 
 ## Flow of Control
 
@@ -41,8 +42,16 @@
 
 * [BaseEngineInterface](engine-classes/baseengineinterface.md)
 * [BasicLevel](engine-classes/basiclevel.md)
-
-## Timing
+* [GameObject](engine-classes/gameobject-class.md)
+* [Actor](engine-classes/actor.md)
+* [Messager](engine-classes/messager.md)
+* [Collider](engine-classes/timing.md)
+* [TimedSequence](engine-classes/timedsequence.md)
+* [UntimedSequence](engine-classes/untimedsequence.md)
+* [WeatherSystem](engine-classes/weathersystem.md)
+* [Actor](engine-classes/actor.md)
+* [Camera2D](engine-classes/camera2d.md)
+* [Engine](engine-classes/engine.md)
 
 ## Sequencing
 
