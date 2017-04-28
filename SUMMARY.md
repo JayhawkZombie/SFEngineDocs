@@ -20,7 +20,10 @@
 ## GUI Framework
 
 * [Basics](gui-framework/basics.md)
+* [Heirarchy](gui-framework/heirarchy.md)
+* [Examples](gui-framework/examples.md)
 * [Text](gui-framework/text.md)
+* Labels
 * Tooltips
 * EditBox
 * Buttons
@@ -31,8 +34,8 @@
 * ChatBox
 * Panel
 * Tabs
-* ChildWindow
-* Styling the GUI
+* [ChildWindow](gui-framework/childwindow.md)
+* Examples
 
 ## Classes
 
