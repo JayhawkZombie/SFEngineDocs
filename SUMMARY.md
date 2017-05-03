@@ -12,11 +12,12 @@
 * [Engine Initialization](flow-of-control/engine-initialization.md)
 * [Engine Startup](flow-of-control/engine-startup.md)
 * [Game Loop](flow-of-control/game-loop.md)
+* [Timing](flow-of-control/timing.md)
 * [Tick Updates](flow-of-control/tick-updates.md)
 * [Render](flow-of-control/render.md)
 * [The Current Level](flow-of-control/the-current-level.md)
 * [Event Updates](flow-of-control/event-updates.md)
-* [Shutting Down](flow-of-control/shutting-down.md)
+* Timing
 
 ## GUI Framework
 

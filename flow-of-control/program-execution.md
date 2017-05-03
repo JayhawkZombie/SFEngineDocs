@@ -34,6 +34,8 @@ If you look at the implementation of `Go`, it's not  particularly exciting.
 ```cpp
 UINT32 Engine::Go(int argc, char **argv)
 {
+  Messager::Init();
+  
   SFENGINE_ASSERT(m_StaticCurrentEngine == nullptr);
 
   m_StaticCurrentEngine = new Engine;
@@ -41,4 +43,5 @@ UINT32 Engine::Go(int argc, char **argv)
   return m_StaticCurrentEngine->Init(argc, argv);
 }
 ```
-So it makes sure the singleton hasn't already been created and then creates it. Then it returns whatever `Init` returns for that instance of `Engine`.
+The `Messager::Init();` call initializes the class used for messaging.
+Then it makes sure the singleton hasn't already been created and then creates it. Then it returns whatever `Init` returns for that instance of `Engine`.
