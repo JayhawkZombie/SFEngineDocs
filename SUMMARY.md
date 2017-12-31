@@ -17,7 +17,6 @@
 * [Render](flow-of-control/render.md)
 * [The Current Level](flow-of-control/the-current-level.md)
 * [Event Updates](flow-of-control/event-updates.md)
-* Timing
 
 ## GUI Framework
 
@@ -46,7 +45,7 @@
 * [GameObject](engine-classes/gameobject-class.md)
 * [Actor](engine-classes/actor.md)
 * [Messager](engine-classes/messager.md)
-* [Collider](engine-classes/timing.md)
+* [Timers](engine-classes/timing.md)
 * [TimedSequence](engine-classes/timedsequence.md)
 * [UntimedSequence](engine-classes/untimedsequence.md)
 * [WeatherSystem](engine-classes/weathersystem.md)
@@ -54,5 +53,9 @@
 * [Camera2D](engine-classes/camera2d.md)
 * [Engine](engine-classes/engine.md)
 
-## Sequencing
+## Serialization
+
+* [Archives](serialization/archives.md)
+* [Building Archives](serialization/building-archives.md)
+* [Loading Archives](serialization/loading-archives.md)
 

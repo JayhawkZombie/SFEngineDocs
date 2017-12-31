@@ -9,16 +9,13 @@ First, we should mention all 3rd party libraries we are using, as they quite cer
 | Link | Why |
 | :---: | :---: |
 | [SFML](https://www.sfml-dev.org) | Graphics and Audio Wrapper |
-| [Thor](http://www.bromeon.ch/libraries/thor) | Animation & Particle Utility |
-| [Aurora](http://www.bromeon.ch/libraries/aurora/index.html) | Used Internally by Thor |
+| [Aurora](http://www.bromeon.ch/libraries/aurora/index.html) | Used Internally by TGUI |
 | [Selba Ward](https://github.com/Hapaxia/SelbaWard) | Graphical Utilities |
 | [IMGUI](https://github.com/ocornut/imgui) | Debug/Editor UI |
 | [TGUI](https://github.com/texus/TGUI) | In-Game/Release UI |
-| [ChaiScript](http://chaiscript.com/) | Runtime Scripting |
+| [Jinx](https://github.com/JamesBoer/Jinx) | Scripting Engine |
 | [JsonCPP](https://github.com/open-source-parsers/jsoncpp) | Data Saving |
 | [cereal](https://github.com/USCiLab/cereal) | Object Serialization |
-
-
 
 We saw no reason to reinvent the wheel here, and these libraries do it better than we could.  Besides, using them allows us to remain open-sourced and we can develop more quickly
 
